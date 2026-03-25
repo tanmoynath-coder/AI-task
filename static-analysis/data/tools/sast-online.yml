@@ -1,0 +1,20 @@
+name: SAST Online
+categories:
+  - linter
+tags:
+  - dart
+  - java
+  - kotlin
+  - mobile
+  - security
+license: proprietary
+types:
+  - service
+pricing: https://sast.online/pricing
+plans:
+  free: true
+source: "https://sast.online/"
+homepage: "https://sast.online/"
+description: >-
+    Check the Android Source code thoroughly to uncover and address potential security concerns and vulnerabilities.
+    Static application security testing (Static Code Analysis) tool Online

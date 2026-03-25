@@ -1,0 +1,20 @@
+name: Black
+categories:
+  - formatter
+tags:
+  - python
+license: MIT License
+types:
+  - cli
+source: "https://github.com/psf/black"
+homepage: "https://black.readthedocs.io/en/stable"
+description: The uncompromising Python code formatter.
+resources:
+  - title: Using the black code formatter in Python
+    url: https://www.youtube.com/watch?v=InA-oAWu3Mo
+  - title: "Łukasz Langa - Life Is Better Painted Black, or: How to Stop Worrying and Embrace Auto-Formatting"
+    url: https://www.youtube.com/watch?v=esZLCuWs_2Y
+demos:
+  - https://black.vercel.app/
+reviews:
+  - https://luminousmen.com/post/my-unpopular-opinion-about-black-code-formatter

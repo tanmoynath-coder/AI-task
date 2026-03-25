@@ -1,0 +1,32 @@
+name: Veracode
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+  - dotnet
+  - java
+  - javascript
+  - objectivec
+  - php
+  - security
+  - swift
+license: proprietary
+types:
+  - cli
+homepage: "https://www.veracode.com/security/static-code-analysis"
+pricing: https://info.veracode.com/request-quote.html
+plans:
+  free: false
+  oss: false
+description: >-
+  Find flaws in binaries and bytecode without requiring source. Support all
+  major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C,
+  C++ and more.
+resources:
+  - title: Veracode Overview
+    url: https://www.youtube.com/watch?v=6Fq_UMgwX4I
+  - title: Veracode SCA Scan for VS Code Plugin
+    url: https://www.youtube.com/watch?v=hCl2H8Heqnw
+reviews:
+  - https://www.peerspot.com/products/veracode-reviews

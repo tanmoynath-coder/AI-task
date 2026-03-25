@@ -1,0 +1,12 @@
+name: scan-build
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+license: Apache License v2.0 with LLVM Exceptions
+types:
+  - cli
+source: 'https://clang-analyzer.llvm.org/scan-build.html'
+homepage: 'https://clang-analyzer.llvm.org/scan-build.html'
+description: Frontend to drive the Clang Static Analyzer built into Clang via a regular build.

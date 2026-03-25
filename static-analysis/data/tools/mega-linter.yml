@@ -1,0 +1,69 @@
+name: Mega-Linter
+categories:
+  - linter
+tags:
+  - ansible
+  - apex
+  - arm
+  - c
+  - ci
+  - clojure
+  - cloudformation
+  - coffeescript
+  - configfile
+  - configmanagement
+  - container
+  - cpp
+  - css
+  - csharp
+  - dart
+  - dockerfile
+  - dotenv
+  - dotnet
+  - gherkin
+  - go
+  - groovy
+  - html
+  - java
+  - javascript
+  - json
+  - jsx
+  - kotlin
+  - kubernetes
+  - latex
+  - lua
+  - lwc
+  - markdown
+  - nodejs
+  - perl
+  - php
+  - powershell
+  - protobuf
+  - puppet
+  - python
+  - r
+  - raku
+  - ruby
+  - rust
+  - scala
+  - shell
+  - sql
+  - terraform
+  - typescript
+  - vbnet
+  - vue
+  - writing
+  - xml
+  - yaml
+license: MIT License
+types:
+  - cli
+source: "https://github.com/nvuillam/mega-linter"
+homepage: "https://megalinter.io/"
+description: >-
+  Mega-Linter can handle any type of project thanks to its 70+ embedded Linters,
+   its advanced reporting, runnable on any CI system or locally,
+   with assisted installation and configuration, able to apply formatting and fixes
+resources:
+  - title: Hands on - Improving code standards with mega linter
+    url: https://www.youtube.com/watch?v=3xgTU1GhRvs

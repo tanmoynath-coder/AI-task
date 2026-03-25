@@ -1,0 +1,11 @@
+name: test
+categories:
+  - linter
+tags:
+  - go
+license: BSD-3-Clause (original text)
+types:
+  - cli
+source: 'https://pkg.go.dev/testing'
+homepage: 'https://pkg.go.dev/testing'
+description: Show location of test failures from the stdlib testing module.

@@ -1,0 +1,13 @@
+name: Goodcheck
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+  - java
+  - php
+license: MIT License
+types:
+  - cli
+homepage: 'https://sider.github.io/goodcheck'
+description: Regexp based customizable linter.
