@@ -13,9 +13,14 @@ This report consolidates all AI-assisted code analysis tasks executed across fou
 
 ## 1. Projects Analyzed
 
-| https://github.com/tanmoynath-coder/AI-task |
+| Project | Location | Description |
+|---------|----------|-------------|
+| **chalk** | `https://github.com/chalk/chalk` | Terminal string styling library (ESM, zero dependencies) |
+| **static-analysis** | `https://github.com/analysis-tools-dev/static-analysis` | Static analysis tools catalog (Rust, analysis-tools.dev) |
+| **random-code** | `./random-code/` | Prompt engineering examples (JavaScript test code) |
+| **checkout-system** | `./checkout-system/` | E-commerce checkout system (Node.js/TypeScript) |
 ---
-
+https://github.com/tanmoynath-coder/AI-task
 
 ### 2.1 Prompt Evolution Hierarchy
 
