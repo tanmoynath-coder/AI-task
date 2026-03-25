@@ -1,0 +1,12 @@
+name: clang-tidy
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+license: Apache License v2.0 with LLVM Exceptions
+types:
+  - cli
+source: 'https://clang.llvm.org/extra/clang-tidy'
+homepage: 'https://clang.llvm.org/extra/clang-tidy'
+description: Clang-based C++ linter tool with the (limited) ability to fix issues, too.

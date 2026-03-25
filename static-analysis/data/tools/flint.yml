@@ -1,0 +1,15 @@
+name: flint++
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+deprecated: true
+license: Boost Software License 1.0
+types:
+  - cli
+source: 'https://github.com/JossWhittle/FlintPlusPlus'
+homepage: 'https://github.com/JossWhittle/FlintPlusPlus'
+description: >-
+  Cross-platform, zero-dependency port of flint, a lint program for C++
+  developed and used at Facebook.

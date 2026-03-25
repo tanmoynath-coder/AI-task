@@ -1,0 +1,27 @@
+name: LGTM
+categories:
+  - linter
+tags:
+  - ci
+  - security
+  - java
+  - python
+  - javascript
+  - typescript
+  - go
+  - c
+  - cpp
+  - csharp
+license: proprietary
+types:
+  - service
+homepage: 'https://lgtm.com/'
+description: >-
+  Find security vulnerabilities, variants, and critical code quality issues
+  using CodeQL queries over source code. Automatic PR code review; free for open source.
+  Formerly semmle. It supports public Git repositories hosted on Bitbucket Cloud,
+  GitHub.com, GitLab.com.
+
+resources:
+  - title: "Welcoming Semmle to GitHub"
+    url: https://github.blog/2019-09-18-github-welcomes-semmle/

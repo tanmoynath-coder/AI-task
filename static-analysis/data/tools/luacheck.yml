@@ -1,0 +1,11 @@
+name: luacheck
+categories:
+  - linter
+tags:
+  - lua
+license: MIT License
+types:
+  - cli
+source: 'https://github.com/lunarmodules/luacheck'
+homepage: 'https://github.com/lunarmodules/luacheck'
+description: A tool for linting and static analysis of Lua code.

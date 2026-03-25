@@ -1,0 +1,23 @@
+name: flake8
+categories:
+  - meta
+tags:
+  - meta
+  - python
+license: Other
+types:
+  - cli
+source: "https://github.com/PyCQA/flake8"
+homepage: "https://github.com/PyCQA/flake8"
+description: "A wrapper around `pyflakes`, `pycodestyle` and `mccabe`."
+resources:
+  - title: My Python Code Looks Ugly and Confusing - Help!
+    url: https://www.youtube.com/watch?v=TDUf93vqq3g
+  - title: flake8 in Python | Linters | PEP8 Standards
+    url: https://www.youtube.com/watch?v=qUpfUenwUPA
+  - title: A flake8 plugin from scratch (intermediate)
+    url: https://www.youtube.com/watch?v=ot5Z4KQPBL8
+demo:
+  - https://aperezhortal.github.io/flake8-dashboard/example_dashboard/index.html
+reviews:
+  - https://www.slant.co/options/12632/~flake8-review

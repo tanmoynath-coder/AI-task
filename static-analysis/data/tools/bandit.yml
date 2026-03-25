@@ -1,0 +1,16 @@
+name: bandit
+categories:
+  - linter
+tags:
+  - python
+license: Apache License 2.0
+types:
+  - cli
+source: "https://github.com/PyCQA/bandit"
+homepage: "https://bandit.readthedocs.io/en/latest"
+description: A tool to find common security issues in Python code.
+resources:
+  - title: "Code security with Bandit and Safety — Perfect Python"
+    url: https://www.youtube.com/watch?v=YZOKnvisJpw
+  - title: "The Python Podcast.__init__: Bandit with Tim Kelsey, Travis McPeak, and Eric Brown - E62"
+    url: https://www.pythonpodcast.com/episodepage/bandit-with-tim-kelsey-travis-mcpeak-and-eric-brown

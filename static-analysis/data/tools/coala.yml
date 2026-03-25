@@ -1,0 +1,18 @@
+name: coala
+categories:
+  - linter
+tags:
+  - c
+  - cpp
+  - css
+  - java
+  - javascript
+license: AGPL-3.0-only
+deprecated: true
+types:
+  - cli
+source: "https://github.com/coala/coala"
+homepage: "https://github.com/coala/coala"
+description: >-
+  Language independent framework for creating code analysis - supports over 60
+  languages by default.

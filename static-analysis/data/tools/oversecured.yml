@@ -1,0 +1,14 @@
+name: Oversecured
+categories:
+- linter
+tags:
+- mobile
+- security
+license: proprietary
+types:
+- cli
+homepage: https://oversecured.com
+description: >-
+  Enterprise vulnerability scanner for Android and iOS apps. It allows app owners
+  and developers to secure each new version of a mobile app by integrating Oversecured
+  into the development process.

@@ -1,0 +1,14 @@
+name: larastan
+categories:
+  - linter
+tags:
+  - php
+  - laravel
+license: MIT License
+types:
+  - cli
+source: 'https://github.com/larastan/larastan'
+homepage: 'https://github.com/larastan/larastan'
+description:  >-
+  Adds static analysis to Laravel improving developer productivity and code quality.
+  It is a wrapper around PHPStan.

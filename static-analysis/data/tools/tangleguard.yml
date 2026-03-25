@@ -1,0 +1,30 @@
+name: TangleGuard
+categories:
+  - linter
+  - meta
+tags:
+  - rust
+  - ci
+license: proprietary
+plans:
+  free: false
+  oss: true
+types:
+  - cli
+  - service
+wrapper: false
+source: "https://github.com/TangleGuard"
+homepage: "https://tangleguard.com/"
+resources:
+  - title: TangleGuard Cloud
+    url: https://app.tangleguard.com/
+  - title: TangleGuard Preview
+    url: https://youtu.be/whzbP1Hnsqs
+  - title: TangleGuard Documentation
+    url: https://docs.tangleguard.com/
+demo:
+  -  https://app.tangleguard.com/project/github.com/TangleGuard/TangleGuard
+description: >-
+  Helps you understand and maintain a scalable software architecture.
+  To do so, it generates a interactive, nested dependency graph out of the source code.
+  You can choose the level of details and get the portion of your codebase that matters to you.
